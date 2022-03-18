@@ -22,4 +22,4 @@
 
 -Image sets include calibration picture, screenshot of entire feed during calibration, and screenshot of entire feed during tracking
 
-Success rate of 1/8 = 12.5%
+Success rate of 1/8 = 12.5% from a strong tendency to fit the ball into the calibration box, rather than the instructions to "fill" the box.
